@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jakob but my friends call me Iba</h1>
+<h1 align="center">Hi 👋, I'm Jakob <br> but my friends call me Iba</h1>
 <h3 align="center">I make software and sometimes games</h3>
 
 <p align="left">
